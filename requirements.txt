@@ -1,0 +1,5 @@
+selenium~=4.16.0
+ddt~=1.7.1
+python-dotenv~=1.0.1
+pytest~=7.4.4
+pytest-html
