@@ -58,7 +58,9 @@ pytest -v -s --html=.\reports\report.html .\tests\home\test_login.py --browser f
   * Firefox
   * Edge
 * Parallel Testing
-* Jenkins Integration
+
+### Future Enhancements
+* Jenkins CI/CD Integration
 
 
 
