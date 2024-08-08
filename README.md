@@ -60,7 +60,7 @@ pytest -v -s --html=.\reports\report.html .\tests\home\test_login.py --browser f
 * Parallel Testing
 
 ### Future Enhancements
-* Jenkins CI/CD Integration
+* Jenkins CI/CD Integration (ToDo)
 
 
 
